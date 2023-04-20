@@ -1,4 +1,4 @@
-# vlog-website
+# blog-website
 using html and css
 
 
